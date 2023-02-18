@@ -1,0 +1,58 @@
+header{
+    /* Rectangle 2 */
+width: 700px;
+height: 100px;
+background: hsla(14, 100%, 50%, 0.882);
+margin-bottom: 0px;
+}
+main{
+    /* Rectangle 1 */
+width: 700px;
+height: 350px;
+margin-top: 0px;
+
+background: #EF8201;
+
+}
+footer{
+    /* Rectangle 3 */
+width: 700px;
+height: 100px;
+
+background-color: hsla(14, 100%, 50%, 0.882);
+
+}
+header h1{
+    /* Laylo pizza */
+font-family: cursive
+align-items: flex-end;
+color: #000000;
+text-align: center;
+
+
+}
+ nav{
+    background-color:hsla(14, 100%, 50%, 0.882);
+    margin-top: 0px;
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 0px;
+    text-decoration:none ;
+}
+main p{
+    font-size:20px;
+    text-align: center;
+}
+footer{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 20px;
+}
+div{
+    float:botom;
+    font-size: 20px;
+    text-align: center;
+}
+header img{
+    width: 75px;
+}
